@@ -2,7 +2,7 @@
 
 ## 1. Welcome
 
-Welcome to the repository! This project contains the code you requested for review, showcasing my work and approach to development. You’ll find the full implementation of the apply-bot, a tool designed to streamline job application processes. Feel free to explore the code, and let me know if you have any questions or need further details.
+Welcome to the repository! This project includes a Vue.js component designed to create a standardized default view for an administrative page. The component ensures consistency in the UI across the application, maintaining a clean and functional layout for user interactions.
 
 ## 2. A readme with the info of an software that i made
 
@@ -14,7 +14,6 @@ One of my recent projects is [apply-bot](https://github.com/knameless27/apply-bo
 
 [General Website of Clinica Virgen Guadalupe](https://clinicavirgenguadalupe.com/es/)
 I developed a public-facing website in Laravel for the Virgen de Guadalupe Clinic. The site was designed to promote health services.
-  [Virgen de Guadalupe Clinic](https://clinicavirgenguadalupe.com/es/).
   
 [Cupons Page - 360 Clinic Management](https://360clinicmanagement.com/landing/Cup%C3%B3n%20General)
 (Note: We are currently migrating Vuexy to the latest version. The layout and responsive elements are being adjusted, but functionality was the priority during this phase.)
